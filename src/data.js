@@ -1,13 +1,13 @@
 export const testGallery = [
-    'src/assets/images/1.jpg',
-    'src/assets/images/2.jpg',
-    'src/assets/images/3.jpg',
-    'src/assets/images/4.jpg',
-    'src/assets/images/5.jpg',
-    'src/assets/images/6.jpg',
-    'src/assets/images/7.jpg',
-    'src/assets/images/8.jpg',
-    'src/assets/images/9.jpg',
-    'src/assets/images/10.jpg',
-    'src/assets/images/11.jpg'
+    'images/1.jpg',
+    'images/2.jpg',
+    'images/3.jpg',
+    'images/4.jpg',
+    'images/5.jpg',
+    'images/6.jpg',
+    'images/7.jpg',
+    'images/8.jpg',
+    'images/9.jpg',
+    'images/10.jpg',
+    'images/11.jpg'
 ]
